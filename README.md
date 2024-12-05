@@ -5,7 +5,7 @@ Welcome to **Cyber Defenders Quiz Game**! 🕹️ This is a fun and interactive 
 
 ## 📥 **Installation Instructions** 🛠️
 
-Follow the steps below to get the game up and running on your local machine:
+Follow the steps below to get the game up and running on your local machine: Please click green code button for other installation options!
 
 1. **Clone the Repository** 🔽  
    Open your terminal or Git Bash and run the following command to clone the repository:
