@@ -10,8 +10,8 @@ Follow the steps below to get the game up and running on your local machine:
 1. **Clone the Repository** 🔽  
    Open your terminal or Git Bash and run the following command to clone the repository:
    ```bash
-   git clone https://github.com/your-username/Cyber-Defenders-Quiz.git
-
+   git clone https://github.com/FirwallPheline/Cyberattack-Python-Quiz.git
+   
 Contributions are welcome!
 If you’d like to suggest improvements or add new features:
 Fork this repository.
